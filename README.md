@@ -16,7 +16,7 @@ The following is code for for a social networking API, where Mongoose models are
   - [Future-Development](#future-development)
 
 ![screenshot of api](./assets/images/Screenshot%202022-11-29%20at%205.35.05%20PM.png)
-![screenshot of api](./assets/images/Screenshot%202022-11-29%20at%205.37.14%20PM.png)
+
 
   ## Installation
 
